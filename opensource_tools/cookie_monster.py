@@ -6,6 +6,7 @@
 # Description :                                                                                 #
 #     This Program Locates and extracts the aes encryption key used to encrypt the passwords    #
 #     stored as coockies in the AppData. then                                                   #
+#                                                                                               #
 # pip command:                                                                                  #
 #     "pip3 install pycryptodomex pypiwin32"                                                    #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
