@@ -1,3 +1,13 @@
+# Name        : coockie_monster.py
+# Developer   : Michelangelo Splinter
+# Date        : Who gives a damm
+#
+# Description : 
+#     This Program Locatess and extracts the aes encryption key used to encrypt the passwords 
+#     stored as coockies in the AppData.
+#
+
+
 import re
 import os
 import json
