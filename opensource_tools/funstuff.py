@@ -7,6 +7,7 @@
 #     stored as coockies in the AppData.
 #
 
+# pip3 install pycryptodome pypiwin32
 
 import re
 import os
