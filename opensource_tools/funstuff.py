@@ -1,10 +1,10 @@
 # Name        : coockie_monster.py
 # Developer   : Michelangelo Splinter
-# Date        : Who gives a damm
+# Date        : Who gives a damn
 #
 # Description : 
 #     This Program Locatess and extracts the aes encryption key used to encrypt the passwords 
-#     stored as coockies in the AppData.
+#     stored as coockies in the AppData. then
 #
 
 # pip3 install pycryptodomex pypiwin32
