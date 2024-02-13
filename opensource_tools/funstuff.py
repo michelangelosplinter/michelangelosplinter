@@ -7,7 +7,7 @@
 #     stored as coockies in the AppData.
 #
 
-# pip3 install pycryptodome pypiwin32
+# pip3 install pycryptodomex pypiwin32
 
 import re
 import os
@@ -15,7 +15,7 @@ import json
 import base64
 import sqlite3
 import win32crypt
-from Crypto.Cipher import AES
+from Cryptodome.Cipher import AES
 import shutil
 from datetime import timezone, datetime, timedelta
 
