@@ -100,7 +100,6 @@ def GetFolders():
                     Final += [z]
         except NotADirectoryError:
             pass
-
     return Final
 
 
